@@ -13,8 +13,7 @@ The analysis follows the complete data analytics lifecycle, including data extra
 
 ## 📊 Power BI Dashboard
 
-![Power BI Dashboard](https://raw.githubusercontent.com/rabinarayan-mishra/Airlinemanagement_system/main/airlinemanagementsystem/assets/powerbi_dashboard.png)
-
+![Airline Management System Power BI Dashboard](https://raw.githubusercontent.com/rabinarayan-mishra/Airlinemanagement_system_Analysis/main/airline_analysisfiles/images/Flight_Dashboard_DarkTheme_Screenshot.png)
 ---
 
 # 🎯 Business Objectives
@@ -213,7 +212,6 @@ This analytical report enables airline management to:
 
 > The dashboard below provides a comprehensive overview of airline operations, revenue performance, booking trends, passenger analytics, and flight management. Users can interact with filters and slicers to explore data from multiple business perspectives.
 
-![Power BI Dashboard](https://raw.githubusercontent.com/rabinarayan-mishra/Airlinemanagement_system/main/airlinemanagementsystem/assets/powerbi_dashboard.png)
 ## 📊 Power BI Dashboard
 
 ![Airline Management System Power BI Dashboard](https://raw.githubusercontent.com/rabinarayan-mishra/Airlinemanagement_system_Analysis/main/airline_analysisfiles/images/Flight_Dashboard_DarkTheme_Screenshot.png)
